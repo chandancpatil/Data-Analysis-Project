@@ -20,7 +20,7 @@ The dataset is based on healthcare patient records containing:
 - Demographic information 
 
 ## Preview
-![healthcare data analysis dashboard] (images/healthcare_data_analysis_dashboard.png)
+![healthcare data analysis dashboard] (Images/healthcare_data_analysis_dashboard.png)
 
 ## 📌 How to Use
 1. Download the `.pbix` file from this repository.
