@@ -1,29 +1,39 @@
-Healthcare Data Analysis Power BI Dashboard
-Overview
-This project is an interactive Power BI dashboard designed to analyze healthcare performance metrics, including patient satisfaction, demographics, and visit trends. The dashboard provides actionable insights for optimizing healthcare service quality and operational efficiency across various departments.
+# Healthcare Data Analysis Power BI Dashboard
 
-Key Features
-Patient Satisfaction Analysis: Displays satisfaction scores across different age groups, racial demographics, and departments.
-Demographic Breakdown: Visualizes the distribution of patient visits by race, age group, and referral type.
-Performance Metrics: Analyzes healthcare service metrics such as wait times, number of patients seen by department, and appointment types.
-Project Details
-Tools Used:
-Power BI
-DAX
-Excel
-Data Sources
-The data used for this dashboard was extracted from a healthcare provider's internal patient records, containing patient satisfaction surveys, visit logs, and demographic information.
-How to Use the Dashboard
-Download the `.pbix` file from this repository.
-Open the file using Microsoft Power BI Desktop.
-Explore the interactive dashboard by applying filters to examine specific patient groups and performance metrics.
-Insights & Outcomes
-Improved Patient Flow: Analyzed patient visits, wait times, and satisfaction scores, which led to recommendations for optimizing patient flow across departments.
-Enhanced Service Quality: Delivered insights that helped healthcare managers improve service quality based on demographic and department-level analysis.
-Future Enhancements
-Integrating real-time data through APIs to provide up-to-date insights.
-Expanding the dashboard to include more advanced healthcare metrics, such as readmission rates and treatment outcomes.
+## 📊 Overview
+This project presents an interactive Power BI dashboard designed to analyze healthcare performance metrics such as patient satisfaction, demographics, and visit trends. The dashboard helps healthcare organizations gain insights to improve service quality and operational efficiency.
 
-📫 Contact
-Chandan C Patil
-Email : chandanpatil32@gmail.com
+## 🚀 Key Features
+- **Patient Satisfaction Analysis:** Visualizes satisfaction scores across age groups, race, and departments.
+- **Demographic Insights:** Shows distribution of patient visits by race, age group, and referral type.
+- **Performance Metrics:** Analyzes wait times, number of patients handled by departments, and appointment types.
+
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX  
+- Microsoft Excel  
+
+## 📂 Data Source
+The dataset is based on healthcare patient records containing:
+- Patient satisfaction survey results  
+- Patient visit logs  
+- Demographic information  
+
+## 📌 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open the file in **Microsoft Power BI Desktop**.
+3. Use filters and slicers in the dashboard to explore insights across different patient groups and departments.
+
+## 📈 Key Insights
+- Identified trends in patient visits and wait times across departments.
+- Analyzed satisfaction levels among different demographic groups.
+- Provided insights to help improve healthcare service quality and patient experience.
+
+## 🔮 Future Improvements
+- Integration of real-time healthcare data using APIs.
+- Addition of advanced healthcare analytics such as readmission rates and treatment outcomes.
+- More interactive visuals for deeper insights.
+
+## 👨‍💻 Author
+**Chandan C Patil**  
+📧 Email: chandanpatil32@gmail.com
