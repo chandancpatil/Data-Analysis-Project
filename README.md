@@ -105,11 +105,11 @@ Through these projects, I aim to demonstrate:
 
 **Chandan Patil**
 
-📧 Email: (Add your email)
+📧 Email: chandanpatil32@gmail.com
 
 🔗 GitHub:
-[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+https://github.com/chandancpatil/Data-Analysis-Project
 
 🔗 LinkedIn:
-(Add LinkedIn Profile)
+www.linkedin.com/in/chandancpatil
 

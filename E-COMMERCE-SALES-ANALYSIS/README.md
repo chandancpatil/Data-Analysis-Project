@@ -27,6 +27,10 @@ The dataset contains information related to:
 - Performed **data transformation and calculations using DAX**
 - Used multiple visualizations such as **bar charts, pie charts, line charts, maps, and slicers**
 
+## 📊 E-Commerce Sales Analysis Dashboard
+
+![E-Commerce Sales Dashboard](images/Dashboard1.png)
+
 ## 📊 Insights
 The dashboard provides insights such as:
 - Sales performance across different product categories
