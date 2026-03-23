@@ -43,10 +43,6 @@ The dashboard provides insights such as:
 - Include advanced KPIs and forecasting
 - Enhance dashboard interactivity for deeper analysis
 
-## 🎓 Credits
-Inspiration and guidance for this project were taken from the following video:  
-https://youtu.be/6cV3OwFrOkk
-
 ## 👨‍💻 Author
 **Chandan C Patil**  
 📧 Email: chandanpatil32@gmail.com
